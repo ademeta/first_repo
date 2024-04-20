@@ -6,5 +6,7 @@ GitHub is awesome
 - get clean git logs --> git log --oneline
 - to remove files added to staging  --> git rm filename
 
+### this is from first_repo
+
 
 
