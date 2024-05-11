@@ -8,6 +8,5 @@ GitHub is awesome
 - git pull
 - git pull request
 
-### this is from first_repo
 
 
