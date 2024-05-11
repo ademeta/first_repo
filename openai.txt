@@ -1,11 +1,11 @@
-GitHub is awesome
+GitHub is awesome -- checkout learning_git for more
 ### Undoing Changes - git clean, git revert, git reset, git rm
 - get git logs --> git log
 - To undo a commit/ unstage a file --> git reset --soft HEAD~1 or commit ID (going back in history)
 - revert undo changes made to code --> git revert commit ID/ ref
 - get clean git logs --> git log --oneline
 - to remove files added to staging  --> git rm filename
-- git pull
+- git pull --> pulls remote and merge locally unless there is merge conflict. i.e. a change has been made to similar file locally.
 - git pull request
 
 
